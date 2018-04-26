@@ -1,3 +1,6 @@
-for (var i = 1; i < 26; i++) {
-  
+for (var i = 1; i < 25; i++) {
+  if (i == 1) {
+    
+  }
+  console.log("")
 }
